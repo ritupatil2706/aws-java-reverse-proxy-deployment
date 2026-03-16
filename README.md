@@ -34,4 +34,5 @@ User → Nginx → Apache Tomcat → AWS RDS MySQL
 
 
 ### Students List
-<img width="1919" height="1021" alt="Screenshot 2026-03-12 235500" src="https://github.com/user-attachments/assets/f3afc718-e566-4aba-9171-e3042a3d561f" />
+<img width="1868" height="798" alt="Screenshot 2026-03-13 230902" src="https://github.com/user-attachments/assets/f4f1dd6f-06a5-428a-8bdd-b3c227b4efd0" />
+
